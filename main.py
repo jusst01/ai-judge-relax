@@ -9,17 +9,19 @@ from pathlib import Path
 
 TEXT = """You are small, asleep on the daybed in the warm dim after lunch. Above you a ceiling fan turns. Light through its blades crosses your face and the sheet in stripes.
 
-Your mother reaches up and switches it off. At first nothing changes. The blades are still one blur. The stripes cross at the same pace.
+Your mother switches it off. At first nothing changes. The blades are one blur. The stripes still cross your face.
 
-Then the blur thins. The blades separate. The stripes creep across the sheet, across your cheek. Each pass lifts the curtain's hem a little less, and lets it fall sooner.
+Then the blur thins. A blade slides free. Then another. The stripes creep across the sheet, across your cheek. Each pass lifts the curtain's hem a little less, lets it fall sooner.
 
-The pull cord, still swinging, passes her chair. She catches it in two fingers before it can tick the wall. She holds it until it forgets how to swing.
+The pull cord swings past her chair. She catches it in two fingers before it ticks the wall, and holds it until it hangs still.
 
-The blades pass the window one at a time. They can be counted. Between sweeps the quiet lasts longer. Under it your breathing is the slowest thing left. It too is slowing.
+Beside you she shells peas into a bowl. Her bare heel is hooked over the crossbar. She smells of rice steam and ironed cotton. Her thumbnail splits a pod. Tick, tick, tick. Tick. Tick. Then nothing.
 
-A blade eases past the light and stops there. The stripes come to rest.
+Her hands rest in the bowl. Her head tips back. She is asleep too.
 
-The sheet over you rises, and falls, and a while later rises again. The room's last motion. In no hurry to stop."""
+A blade eases past the light and holds. The stripes settle.
+
+The sheet over you rises, and falls. A while later it rises again."""
 
 
 def main() -> None:
