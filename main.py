@@ -7,17 +7,19 @@ newline. The output directory comes from MAKEFUN_OUTPUT_DIR (default /output).
 import os
 from pathlib import Path
 
-TEXT = """The switch clicks in the hottest hour of the afternoon, and at first nothing follows it. The blades are still one grey smear, the curtain still breathes, and the light through the blades still crosses the wall in stripes.
+TEXT = """You are small, asleep on the daybed in the warm dim after lunch. Above you a ceiling fan turns. Light through its blades crosses your face and the sheet in stripes.
 
-Then the smear thins. The blades come apart, and the stripes begin to creep across the wall. Each pass lifts the curtain's hem a little less, and sets it down a little sooner.
+Your mother reaches up and switches it off. At first nothing changes. The blades are still one blur. The stripes cross at the same pace.
 
-The pull cord is still swinging wide, as it was while the fan ran. It goes on by itself, out and back, and nothing else in the room is going that fast now.
+Then the blur thins. The blades separate. The stripes creep across the sheet, across your cheek. Each pass lifts the curtain's hem a little less, and lets it fall sooner.
 
-The blades pass the window one at a time. They can be counted. Between one sweep of the stripes and the next, the quiet lasts longer, and longer.
+The pull cord, still swinging, passes her chair. She catches it in two fingers before it can tick the wall. She holds it until it forgets how to swing.
 
-One blade eases past the light and stops there. The stripes come to rest on the wall. Only light now, going nowhere.
+The blades pass the window one at a time. They can be counted. Between sweeps the quiet lasts longer. Under it your breathing is the slowest thing left. It too is slowing.
 
-The cord swings on after the blades have stopped, smaller each time, the last moving thing in the room. Then it, too, hangs straight."""
+A blade eases past the light and stops there. The stripes come to rest.
+
+The sheet over you rises, and falls, and a while later rises again. The room's last motion. In no hurry to stop."""
 
 
 def main() -> None:
