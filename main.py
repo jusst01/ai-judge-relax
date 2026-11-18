@@ -7,19 +7,22 @@ newline. The output directory comes from MAKEFUN_OUTPUT_DIR (default /output).
 import os
 from pathlib import Path
 
-TEXT = """You are small, asleep on the daybed in the warm dim after lunch. Above you a ceiling fan turns. Light through its blades crosses your face and the sheet in stripes.
+TEXT = """You are small, asleep on the daybed in the warm, dim room after lunch. Above you the ceiling fan turns, and the light through its blades crosses your face and the sheet in stripes.
 
-Your mother switches it off. At first nothing changes. The blades are one blur. The stripes still cross your face.
+Your mother switches it off. At first nothing changes. One blur. The stripes still lie across your face.
 
-Then the blur thins. A blade slides free. Then another. The stripes creep across the sheet, across your cheek. Each pass lifts the curtain's hem a little less, lets it fall sooner.
+Then the blur thins. A blade slides free, and another. The stripes creep over the sheet, over your cheek, a little further on each pass.
 
-The pull cord swings past her chair. She catches it in two fingers before it ticks the wall, and holds it until it hangs still.
+The pull cord, still swinging, passes her chair. She catches it in two fingers so it will not tick the wall, and holds it until it hangs still. She does not let go.
 
-Beside you she shells peas into a bowl. Her bare heel is hooked over the crossbar. She smells of rice steam and ironed cotton. Her thumbnail splits a pod. Tick, tick, tick. Tick. Tick. Then nothing.
+Beside you she shells peas into a bowl. Her thumbnail splits a pod. Tick. Tick.
 
-Her hands rest in the bowl. Her head tips back. She is asleep too.
 
-A blade eases past the light and holds. The stripes settle.
+Then nothing.
+
+Her hands rest in the bowl. Her head tips back against the chair. She is asleep too.
+
+A blade eases past the light and stops there, half in it. The stripes come to rest.
 
 The sheet over you rises, and falls. A while later it rises again."""
 
