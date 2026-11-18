@@ -7,17 +7,17 @@ newline. The output directory comes from MAKEFUN_OUTPUT_DIR (default /output).
 import os
 from pathlib import Path
 
-TEXT = """The last pot leaves the flame. The flame goes out. The ring stays warm a moment, then does not.
+TEXT = """The switch clicks in the hottest hour of the afternoon, and at first nothing follows it. The blades are still one grey smear, the curtain still breathes, and the light through the blades still crosses the wall in stripes.
 
-Chairs go up on the tables in twos, and each pair lands without a sound.
+Then the smear thins. The blades come apart, and the stripes begin to creep across the wall. Each pass lifts the curtain's hem a little less, and sets it down a little sooner.
 
-Under the bench a cat turns itself around its own warmth, tucks its nose, and sleeps again.
+The pull cord is still swinging wide, as it was while the fan ran. It goes on by itself, out and back, and nothing else in the room is going that fast now.
 
-Then the first rain on the zinc awning, soft, the sort that settles in and asks nothing.
+The blades pass the window one at a time. They can be counted. Between one sweep of the stripes and the next, the quiet lasts longer, and longer.
 
-The owner gives the counter a last wipe, then one that was not needed, and hangs the cloth on the rail.
+One blade eases past the light and stops there. The stripes come to rest on the wall. Only light now, going nowhere.
 
-He goes home through the first few drops, no faster than the rain."""
+The cord swings on after the blades have stopped, smaller each time, the last moving thing in the room. Then it, too, hangs straight."""
 
 
 def main() -> None:
